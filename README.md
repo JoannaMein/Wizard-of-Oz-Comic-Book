@@ -1,2 +1,2 @@
 # Wizard of Oz Comic Book Website
-Created as part of Group work for Digital Storytelling Module
+Part 2 of comic created as part of Group work for Digital Storytelling Module
